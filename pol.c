@@ -219,7 +219,7 @@ int main(void)
 		}
 				
 
-		for(n2=n; n2<n*2+6; n2++)  //Polarizability calculation for n2<2n+6
+		for(n2=n; n2<n*2+6; n2++)  //Polarizability calculation for n2<2n+6, 6 upper states should be fine given the enormous dipole matrix elements of nearby states for ns1/2
 		{
 			qd2=rydritz(n2, matd, m2);
 			nqd2=n2-qd2;
