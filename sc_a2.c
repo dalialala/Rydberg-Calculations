@@ -13,6 +13,7 @@ Using a change of variable x=sqrt(r), X(x)=R(r)r^(3/4), the SRE becomes,
 d²X/dx²=[-8x²(E-V)+(2l+1/2)(2l+3/2)/x²]X;
 in atomic units
 
+Potential can be chosen to be the one described by Coulomb, Marinescu or Quasiclassical
 ------------------------------------------------*/
 
 #include <stdio.h>
