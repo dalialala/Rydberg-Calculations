@@ -1,6 +1,6 @@
 /*--------------------------------------------------
 
-Calculatind dipole matrix elements <n,l,j|z|n2,k,j2> by solving 
+Calculate dipole matrix elements <n,l,j|z|n2,k,j2> by solving 
 the radial Schrodinger differential equation for alkali atoms using 
 the Numerov Method.
 
