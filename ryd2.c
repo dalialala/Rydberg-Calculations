@@ -92,7 +92,7 @@ int main(void)
 	}*/
 	
 
-	//---Loop for computing n*, energies and their uncertanties vectors in units of s-1 and m---\\
+	//---Loop for computing n*, energies and their uncertanties vectors in units of Hz and m---\\
 
 	for(i=nmin; i<nmax+1; i++)
 	{
