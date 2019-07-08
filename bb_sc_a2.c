@@ -248,7 +248,7 @@ int main(void)
 	
 	
 	
-	//---Final polarizability calculation---\\
+	//---Final decay calculation---\\
 	
 	decay1=0;
 	decay2=0;
